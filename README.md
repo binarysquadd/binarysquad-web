@@ -115,6 +115,15 @@ Start the development server using the following command.
 npm run dev
 ```
 
+### 👉 Change `baseURL`
+You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
+
+```
+For local setup - "localhost"
+For gitpod/codespace - "the dynamically generated homepage link
+FOr prod - "/"
+```
+
 ### 🎬 Still Confused? Watch a Quick Video
 
 https://github.com/zeon-studio/hugoplate/assets/58769763/c260c0ae-91be-42ce-b8db-aa7f11f777bd
@@ -200,8 +209,6 @@ We have provided 5 different deploy platform configurations with this template, 
 - [AWS Amplify](https://aws.amazon.com/amplify/)
 
 And if you want to host some other hosting platforms. Then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
-
-> **Note:** You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
 
 ---
 

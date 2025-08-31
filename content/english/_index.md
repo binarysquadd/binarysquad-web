@@ -1,53 +1,76 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Tech made simple for growing businesses"
+  content: "Websites, CRM/ERP, accounting, HR, automations, and ongoing IT support — all in one place."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Book a free consult"
+    link: "/contact/"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Automation & Messaging"
+    image: "/images/service-automation.png"
+    content: "Save time with smart workflows — WhatsApp flows, reminders, and integrations with your tools."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      - "WhatsApp menus & reminders"
+      - "Form → Sheet/ERP sync"
+      - "Customer notifications"
+      - "No-code/low-code automations"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Cloud & Data Management"
+    image: "/images/service-cloud.png"
+    content: "Your own secure online office — store files, share with your team, and access everything from anywhere."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      - "Private cloud setup (Nextcloud, OwnCloud, or your choice)"
+      - "Google Drive or Dropbox alternatives without monthly bills"
+      - "Safe document sharing inside and outside your company"
+      - "Custom setups on AWS, GCP, or Azure if you already use them"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Web & Online Presence"
+    image: "/images/service-web.png"
+    content: "Fast, secure websites and online stores that are easy to manage and look great on any device."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+      - "Business websites & e-commerce"
+      - "SEO, analytics & performance"
+      - "Hosting, backups & SSL"
+      - "Speed & mobile optimization"
+
+  - title: "CRM / ERP Setup & Improvement"
+    image: "/images/service-erp.png"
+    content: "From first-time setup to fixing what you already have — we structure your data and workflows the right way."
+    bulletpoints:
+      - "Leads, sales & customer follow-ups"
+      - "Inventory, purchases & billing"
+      - "Approvals, roles & permissions"
+      - "Data migration & training"
+
+  - title: "Accounting & Invoicing"
+    image: "/images/service-accounts.png"
+    content: "Clean books and smooth billing — so you always know what’s due, paid, and pending."
+    bulletpoints:
+      - "GST-ready invoices & estimates"
+      - "Expense tracking & reports"
+      - "Payment gateways & receipts"
+      - "Templates that match your brand"
+
+  - title: "HR & Team Tools"
+    image: "/images/service-hr.png"
+    content: "Simple systems for people ops — onboarding, attendance, leaves, and basic payroll flows."
+    bulletpoints:
+      - "Employee onboarding & records"
+      - "Leave & attendance tracking"
+      - "Role-based access & approvals"
+      - "Training & documentation"
+
+  - title: "IT Support & Maintenance"
+    image: "/images/service-it.png"
+    content: "Reliable support that keeps you online — updates, backups, security, and quick fixes when you need them."
+    bulletpoints:
+      - "Monitoring & regular updates"
+      - "Daily/weekly backups"
+      - "Security hardening"
+      - "Fast issue resolution"
 ---
