@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
+# baseURL = "https://1313-binarysquad-binarysquad-v4rbqchinha.ws-us121.gitpod.io"
 # Title of your website (required).
 title = "Binary Squad"
 # Your theme name
