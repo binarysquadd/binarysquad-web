@@ -17,7 +17,7 @@ social:
     link: "https://www.linkedin.com/in/75asu/"
 
   - name: website
-    icon: fa-brands fa-globe
+    icon: fa-solid fa-globe
     link: "https://75asu.netlify.app"
 ---
 Founder of Binary Squad, the brain behind the big decisions. From making systems faster, safer, and cheaper to setting direction to solving tricky tech, he keeps projects on track and makes sure clients get results that matter.
